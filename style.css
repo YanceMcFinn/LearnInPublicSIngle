@@ -1,0 +1,82 @@
+/* Reset styles */
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 100%;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.heading {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 500;
+}
+
+.lrgBtnText {
+    font-size: 1.3rem;
+}
+
+.whiteBtn {
+    background-color: white !important;
+}
+
+.whiteBtn:hover {
+    background-color: rgb(228, 224, 224) !important;
+}
+
+.studentRow:hover {
+    background-color: #d9d9d9;
+    border-radius: .7rem !important;
+}
+
+#studentName {
+    font-family: ''M PLUS Rounded 1c', sans-serif';
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin: 0 !important;
+}
+
+#motto {
+    margin: -.5rem 0 .5rem 0 !important;
+    
+}
+
+#linkBtnIcon {
+    margin: .25rem 0;
+}
+.modalBGTest {
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.test {
+    margin: 0 6rem 0 6rem !important;
+}
+
+.addProfInvis {
+    display: none;
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+}
+
+.addProfVis {
+    display: block;
+}
+
+.addProfInstructions {
+    margin: 0 9rem 0 9rem !important;
+    background-color: white;
+}
+
+#addProfHeading{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 400;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
